@@ -1,4 +1,4 @@
-<svelte:options tag="skit-counter" />
+<svelte:options tag="skit-button" />
 
 <script lang="ts">
   let count: number = 0
